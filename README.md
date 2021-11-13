@@ -1,4 +1,4 @@
-#Lending💸
+# Lending💸
 
 Aave - an open source and non-custodial protocol to earn interest on deposits & borrow assets
 
@@ -64,7 +64,7 @@ Yield Credit - a P2P fixed-rate lending dapp with incentivized borrowing & lendi
 
 Yield Protocol - a protocol offering collateralized fixed-rate, fixed-term borrowing and lending and an interest rate market
 
-#Trading📈
+# Trading📈
 
 0x - a protocol for p2p exchange of tokenized assets
 
@@ -132,7 +132,7 @@ Uniswap - a fully decentralized on-chain protocol for token exchanges on Ethereu
 
 ZKSwap - a token Swap protocol based on Automated Market Maker that utilizes ZK-Rollup technology to provide scalablitiy and privacy
 
-#Derivatives📊
+# Derivatives📊
 
 Augur - a decentralized oracle and peer-to-peer protocol for prediction markets on Ethereum that lets anyone create a market around the outcome of any real-world event
 
@@ -174,7 +174,7 @@ UMA - a decentralized protocol to enable the creation, maintenance, and settleme
 
 weiWard - an on-chain repo where users can gain exposure to tokenized ETH gas without intermediaries using its ETH gas AMM
 
-#Options🗠
+# Options🗠
 
 ACO - a decentralized and non-custodial options trading protocol
 
@@ -194,7 +194,7 @@ Shield - a decentralized protocol for trading perpetual options based on a non-c
 
 Siren - a distributed protocol for creating, trading, and redeeming fully-collateralized options contracts for any ERC-20 token on Ethereum
 
-#Payments💵
+# Payments💵
 
 Flexa - a payment network that enables merchants to accept digital currencies without the risk of fraud or volatility through off-chain collateralization.
 
@@ -204,7 +204,7 @@ Request Network - an open network for transaction requests. It allows anyone to 
 
 Sablier - a real-time finance protocol built on Ethereum that enables continuous, autonomous and trustless payroll.
 
-#Wallets👛
+# Wallets👛
 
 Alpha Wallet - a mobile-based wallet built for Dapps. Do everything with only a few taps.
 
@@ -248,7 +248,7 @@ Poketto - a wallet that you can actually show to your parents
 
 Unstoppable Wallet - a non-custodial, open source and cross platform wallet, featuring advanced management & analytical tools
 
-#Interfaces🖥️
+# Interfaces🖥️
 
 APY Vision - a dashboard to view and manage your liquidity pools and track yield farming rewards
 
@@ -270,7 +270,7 @@ Zapper - an interface where users can manage their DeFi assets and liabilities
 
 Zerion - an easy to use trustless banking interface utilizing popular DeFi protocols
 
-#Asset Management🧳
+# Asset Management🧳
 
 Alpha Homora - a leveraged yield farming/liquidity providing protocol on Ethereum. Alpha Homora is the first product by Alpha Finance Lab
 
@@ -316,7 +316,7 @@ yAxis - a community-launched meta yield-aggregator designed to deploy capital to
 
 Yearn Finance - a collection of community-led & developed yield farming vaults, yield aware money markets, easy swapping tools and pooled insurance coverage
 
-#Infrastructure🧱
+# Infrastructure🧱
 
 Composable - a protocol seeking to enable cross-layer interoperability among the Ethereum Layer 2 Networks, allowing them to communicate with each other and perform near-instantaneous asset swaps
 
@@ -346,7 +346,7 @@ Tokentax - an easy to use cryptocurrency & DeFi taxes calculator
 
 Tornado Cash - a fully decentralized protocol for private transactions on Ethereum
 
-#Insurance💸
+# Insurance💸
 
 Cover Protocol - a peer to peer coverage platform using fungible tokens that enables the market set projects' coverage prices
 
@@ -358,7 +358,7 @@ Nsure - an open insurance platform for open finance, in a marketplace model that
 
 Union - an insurance platform that provides DeFi users with bundled protection with different layers of coverage and segregated underwriter exposure
 
-#Assets🏘️
+# Assets🏘️
 
 Ampleforth - a digital-asset-protocol for smart commodity-money.
 
@@ -408,7 +408,7 @@ Reserve - a decentralized stablecoin protocol enabling global and frictionless p
 
 USDx - USDx is a decentralized and synthetic indexed stablecoin introduced by dForce. USDx's underlying stablecoins include USDC, TUSD and PAX
 
-#Scaling♎
+# Scaling♎
 
 Bloxroute - a Layer 0 network infrastructure involving both miners & users to scale Web 3.0
 
@@ -428,7 +428,7 @@ SKALE - an open-source, decentralized "elastic" blockchain network designed to s
 
 xDai - an Ethereum sidechain with 5-second block times, low gas prices, and a native token that's also called xDai.
 
-#Analytics📉
+# Analytics📉
 
 0x Tracker - a trade explorer for 0x protocol and decentralized ERC20 token price index
 
@@ -450,7 +450,7 @@ UniswapROI - a calculator to help you analyze your investments in Uniswap and fi
 
 Whois0x - a database of wallet addresses and their linked social media accounts that also provides easy to understand DeFi stats for each address
 
-#Education📚
+# Education📚
 
 Cryptofilter - a community-curated DeFi & web3 news & info aggregator
 
@@ -474,7 +474,7 @@ LP Royale - a site to learn how liquidity providing works, compete with others a
 
 Daily Gwei - an ecosystem that provides education, tools and resources to keep you in the loop with everything happening in the Ethereum ecosystem
 
-#Podcasts🎤
+# Podcasts🎤
 
 Epicenter - a podcast which interviews crypto founders, builders, and thought leaders while focusing discussions on explaining technical details, and understanding visionary concepts as well as long-term trends in DeFi and crypto
 
@@ -484,7 +484,7 @@ Wyre Podcast - a podcast where Thomas Scaria interviews founders of top DeFi pro
 
 Bankless Podcast - a podcast exploring the frontier of internet money and internet finance
 
-#Newsletters📰
+# Newsletters📰
 
 Bankless - the ultimate guide to crypto finance written by Ryan Sean Adams
 
@@ -502,7 +502,7 @@ The Defiant - a curated list of daily news in the DeFi space explained and conde
 
 The Daily Gwei - a newsletter that keeps you up to date with everything happening on Ethereum by Anthony Sassano
 
-#Communities🧑🏻‍🤝‍🧑🏻
+# Communities🧑🏻‍🤝‍🧑🏻
 
 Concourse Open Community - an open community of builders, enthusiasts and researchers working towards a free, bountiful and decentralized future for everyone
 
