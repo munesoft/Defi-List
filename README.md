@@ -1,68 +1,69 @@
 # Lending💸
+**Aave** - an open source and non-custodial protocol to earn interest on deposits & borrow assets
 
-Aave - an open source and non-custodial protocol to earn interest on deposits & borrow assets
+**Akropolis** - an under collateralized lending protocol aiming at DeFi yield optimisation and interest-rate sharing
 
-Akropolis - an under collateralized lending protocol aiming at DeFi yield optimisation and interest-rate sharing
+**B.Protocol** - a backstop liquidity protocol aiming to make decentralized lending platforms more stable by introducing a backstop liquidity solution
 
-B.Protocol - a backstop liquidity protocol aiming to make decentralized lending platforms more stable by introducing a backstop liquidity solution
+**Beta Finance** - a permissionless money market protocol for lending, borrowing, and shorting any crypto asset
 
-Beta Finance - a permissionless money market protocol for lending, borrowing, and shorting any crypto asset
+**BiFi** - a mutichain DeFi protcol that offers lending, staking, and pooling services
 
-BiFi - a mutichain DeFi protcol that offers lending, staking, and pooling services
+**bZx** - a decentralized protocol that enables lending and borrowing for margin trading
 
-bZx - a decentralized protocol that enables lending and borrowing for margin trading
+**Centrifuge** - an on-chain risk assessment and pooling infrastructure for borrowing against illiquid assets such as invoices, real estate, and commodities.
 
-Centrifuge - an on-chain risk assessment and pooling infrastructure for borrowing against illiquid assets such as invoices, real estate, and commodities.
+**Compound** - an open-source money market protocol on Ethereum that lets users lend or borrow assets against collateral
 
-Compound - an open-source money market protocol on Ethereum that lets users lend or borrow assets against collateral
+**Cream.Finance** - a Compound based open-source lending platform
 
-Cream.Finance - a Compound based open-source lending platform
+**DeFiner** - a globally available, decentralized lending marketplace to securely borrow and lend digital assets through smart-contracts
 
-DeFiner - a globally available, decentralized lending marketplace to securely borrow and lend digital assets through smart-contracts
+**Fortube** - an open financial platform providing a wide range of financial services including lending, banking and stablecoins
 
-Fortube - an open financial platform providing a wide range of financial services including lending, banking and stablecoins
+**Impermax** - a DeFi ecosystem that enables liquidity providers to leverage their LP tokens
 
-Impermax - a DeFi ecosystem that enables liquidity providers to leverage their LP tokens
+**Inverse finance** - a DAO that offers capital efficient lending, borrowing, and synthetic assets. Also offers passive investment in tokens using a Dollar-Cost Averaging strategy using stablecoin yield.
 
-Inverse finance - a DAO that offers capital efficient lending, borrowing, and synthetic assets. Also offers passive investment in tokens using a Dollar-Cost Averaging strategy using stablecoin yield.
+**Kava** - a lending platform that accepts a wide range of digital assets for collateral as well as lending & borrowing
 
-Kava - a lending platform that accepts a wide range of digital assets for collateral as well as lending & borrowing
+**Liquity** - a decentralized non-custodial, immutable and governance-free borrowing protocol that allows you to draw 0% interest loans against Ether used as collateral. Loans are paid out in LUSD - a USD pegged stablecoin, and need to maintain a minimum collateral ratio.
 
-Liquity - a decentralized non-custodial, immutable and governance-free borrowing protocol that allows you to draw 0% interest loans against Ether used as collateral. Loans are paid out in LUSD - a USD pegged stablecoin, and need to maintain a minimum collateral ratio.
+**Maker** - a decentralized credit platform on Ethereum that supports Dai, a stablecoin whose value is pegged to USD and backed by digital assets as collateral
 
-Maker - a decentralized credit platform on Ethereum that supports Dai, a stablecoin whose value is pegged to USD and backed by digital assets as collateral
+**Maple Finance** - a corporate debt marketplace that enables institutions to borrow from Liquidity Pools funded by the DeFi ecosystem and managed by Pool Delegates.
 
-Maple Finance - a corporate debt marketplace that enables institutions to borrow from Liquidity Pools funded by the DeFi ecosystem and managed by Pool Delegates.
+**Notional** - a fixed rate & term financing protocol using novel interest rate curves to reduce slippage
 
-Notional - a fixed rate & term financing protocol using novel interest rate curves to reduce slippage
+**QiDao** - a defi protocol built on polygon that allows users to borrow stablecoins interest-free against their crypto assets
 
-QiDao - a defi protocol built on polygon that allows users to borrow stablecoins interest-free against their crypto assets
+**Ramp Defi** - a DeFi protocol that allows users to deposit staked capital and collateralize it for rUSD lending/borrowing
 
-Ramp Defi - a DeFi protocol that allows users to deposit staked capital and collateralize it for rUSD lending/borrowing
+**Rari Capital** - a yield farming protocol that rebalances users holdings across a series of DeFi protocols
 
-Rari Capital - a yield farming protocol that rebalances users holdings across a series of DeFi protocols
+**Reflexer** - a non pegged stable assets protocol managed by on-chain, governance minimized, smart contract controllers
 
-Reflexer - a non pegged stable assets protocol managed by on-chain, governance minimized, smart contract controllers
+**Ruler** - a lending platform where users can borrow their preferred cryptocurrency using any other cryptocurrency as collateral without the risk of liquidation
 
-Ruler - a lending platform where users can borrow their preferred cryptocurrency using any other cryptocurrency as collateral without the risk of liquidation
+**Strike** - a decentralized money market that enables variable based rates for supplying digital asset collaterals to the protocol and from borrowing digital assets from the protocol with over-collateralized assets
 
-Strike - a decentralized money market that enables variable based rates for supplying digital asset collaterals to the protocol and from borrowing digital assets from the protocol with over-collateralized assets
+**Swap Rate** - a DeFi interest rate swap tool built on the Opium protocol
 
-Swap Rate - a DeFi interest rate swap tool built on the Opium protocol
+**Truefi** - an on-chain credit protocol for collateral-free lending
 
-Truefi - an on-chain credit protocol for collateral-free lending
+**Warp Finance** - a DeFi platform that allows users to deposit LP tokens and take out stablecoin loans against them
 
-Warp Finance - a DeFi platform that allows users to deposit LP tokens and take out stablecoin loans against them
+**Wasabix Finance** - a cross chain yield-backed synthetic asset and AMM DEX platform
 
-Wasabix Finance - a cross chain yield-backed synthetic asset and AMM DEX platform
+**WePiggy** - an open source, non-custodial crypto asset lending market protocol
 
-WePiggy - an open source, non-custodial crypto asset lending market protocol
+**Wing Finance** - a credit-based DeFi system that supports cross-chain digital asset lending
 
-Wing Finance - a credit-based DeFi system that supports cross-chain digital asset lending
 
-Yield Credit - a P2P fixed-rate lending dapp with incentivized borrowing & lending
+**Yield Credit** - a P2P fixed-rate lending dapp with incentivized borrowing & lending
 
-Yield Protocol - a protocol offering collateralized fixed-rate, fixed-term borrowing and lending and an interest rate market
+**Yield Protocol** - a protocol offering collateralized fixed-rate, fixed-term borrowing and lending and an interest rate market
+
 
 # Trading📈
 
